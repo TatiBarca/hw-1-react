@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: #21222A;
+    padding: 31px 26px;
+
+}
+
+.navText {
+    display: flex;
+    align-items:center;
+}
+
+.navTitle {
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    
+    color: #61DAFB;
+
+}
+
+.navAbout {
+    color: #DEEBF8;
+    ;
+}

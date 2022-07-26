@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-style: normal ;
+}
+.App {
+  width: 550px;
+  height: 90px;
+  margin:0 auto
+}
